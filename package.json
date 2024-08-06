@@ -5,6 +5,9 @@
   "repository": "https://github.com/dword-design-honestly/demo-bootstrap-vue-next-tooltip-hover",
   "author": "Sebastian Landwehr <153498584+dword-design-honestly@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "vite dev"
+  },
   "dependencies": {
     "bootstrap": "^5.3.3",
     "vue": "^3.4.35"
